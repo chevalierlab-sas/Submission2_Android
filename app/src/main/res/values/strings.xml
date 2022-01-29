@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="submit">Submit</string>
+    <string name="type_your_name">Type Your Name</string>
+    <string name="type_your_email">Type Your Email</string>
+    <string name="type_yout_phone_number">Type Yout Phone Number</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+</resources>
