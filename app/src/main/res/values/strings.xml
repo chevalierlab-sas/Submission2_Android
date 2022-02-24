@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentNew</string>
+    <string name="log_in">Log In</string>
+    <string name="user_name">User Name</string>
+    <string name="submit">Submit</string>
+    <string name="email">Email</string>
+    <string name="email2">email</string>
+    <string name="nama">nama</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="nomor">nomor</string>
+</resources>
