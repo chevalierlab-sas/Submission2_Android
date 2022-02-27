@@ -14,7 +14,7 @@ class Page2 : AppCompatActivity() {
         binding = ActivityPage2Binding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        if(intent.hasExtra("nama")) {
+        if(intent.hasExtra("name")) {
             val name = intent.getStringExtra("name")
             val email = intent.getStringExtra("email")
             val phoneNumber = intent.getStringExtra("phoneNumber")
