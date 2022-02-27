@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+</resources>
